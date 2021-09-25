@@ -1,8 +1,6 @@
 Color Picker
 ===========
 
-**Download source code: [ZIP file](https://github.com/peteroupc/colorpicker/archive/master.zip)**
-
 If you like this software, consider donating to me at this link: [http://peteroupc.github.io/](http://peteroupc.github.io/)
 
 ----
